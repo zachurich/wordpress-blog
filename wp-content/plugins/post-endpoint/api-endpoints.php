@@ -1,11 +1,6 @@
 <?php
 /*
 Plugin Name: Rest API Endpoint for Posts
-Plugin URI: http://zachurich.com
-Description: A starting point for creating Custom Wordpress API Endpoints
-Author: Zach Urich
-Version: 1.0
-Author URI: http://zachurich.com
 */
 
 class JSON_API_Endpoints {

@@ -1,11 +1,6 @@
 <?php
 /*
 Plugin Name: Rest API Endpoint for Form Collection
-Plugin URI: http://zachurich.com
-Description: Endpoint for Posting Form Data
-Author: Zach Urich
-Version: 1.0
-Author URI: http://zachurich.com
 */
 
 include_once('inc/CPT.php');
